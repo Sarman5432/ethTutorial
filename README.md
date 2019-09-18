@@ -1,3 +1,3 @@
-# ethTutorial
+# Setting Up A Smart Contract
 
-this is a tutorial on how to set up smart constracts and use the etherium network
+this is a project on setting up smart constracts and using the etherium network
